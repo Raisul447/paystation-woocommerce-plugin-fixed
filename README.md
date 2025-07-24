@@ -1,7 +1,5 @@
-![pay station logo](https://paystation.com.bd/images/logo/logo.png)
-
 # PayStation WooCommerce Plugin – Bug Fixes
-
+![pay station logo](images/icon.png)
 
 I have faced two major issues in the officially released PayStation WordPress plugin, and I’ve fixed them successfully.
 
